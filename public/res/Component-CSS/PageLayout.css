@@ -1,0 +1,105 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+}
+
+#root,
+.rowbody,
+.header {
+    background-color: #333333;
+    color: #CCCCCC;
+}
+
+#contact {
+    font: 16px "Century Gothic", Futura, sans-serif;
+    margin: 12px 12px;
+}
+
+
+#copyright,
+#phone-home,
+#location {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+#pin-logo {
+    margin-top: 4px;
+    margin-left: 8px;
+}
+
+.d-block,
+.carousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:300px;
+    object-fit:cover;
+}
+.carousel-captio,
+.carousel-caption p,
+.carousel-caption h5 {
+    display:none;
+}
+
+
+.card bg-dark {
+    border: 0px;
+}
+
+#copyright {
+    width: 100%;
+    margin: 12px 12px;
+}
+
+#footer {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #4C4C4C !important;
+    color: #FFFFFF;
+}
+
+#navigation-item {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #4C4C4C !important;
+    color: #FFFFFF;
+}
+
+#navigation-card,
+#header-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #333333 !important;
+    border: 0px;
+}
+
+#introduction-card,
+#experience-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #333333 !important;
+    border: 0px;
+    margin-bottom: 16px;
+}
+
+#body-card {
+    background-color: #4C4C4C !important;
+    margin-bottom: 32px;
+    border: 0px;
+}
+
+#intro-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #4C4C4C !important;
+    margin-bottom: 32px;
+    border: 0px;
+}
+
+#body-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #4C4C4C !important;
+    margin-bottom: 32px;
+    border: 0px;
+}
+
+.card-header {
+    color: #FFFFFF !important;
+}

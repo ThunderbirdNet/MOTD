@@ -1,0 +1,198 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    background-image: url('../Images/Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#root,
+.rowbody,
+.header {
+    background-color: #562B2C;
+    color: #CCCCCC;
+    background:none;
+}
+
+#contact {
+    margin-right: 32px;
+    color: #423323;
+}
+
+#phnumber {
+    color: #423323;
+
+}
+
+
+#copyright,
+#phone-home,
+#location {
+    width: 24px;
+    height: 24px;
+    margin: 16px 16px;
+    margin-right: 8px;
+    filter: invert(20%) sepia(0%) saturate(1385%) hue-rotate(218deg) brightness(99%) contrast(104%);
+    background:none;
+}
+
+
+
+#pin-logo {
+    font-family: 'ProtoMono-SemiBold', Helvetica, Arial, Sans-Serif;
+    font-size: 32px;
+    color: #cdcdcd;
+    margin: 16px 16px;
+    position:fixed;
+}
+
+.d-block,
+.carousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:300px;
+    object-fit:cover;
+}
+.carousel-captio,
+.carousel-caption p,
+.carousel-caption h5 {
+    display:none;
+}
+
+
+.card bg-dark {
+    border: 0px;
+}
+
+#copyright {
+    width: 100%;
+    margin: 12px 12px;
+}
+
+#footer {
+    font-family: "Carlito", "Bahnschrift", "Calibri";
+    background-color: #CDCDCD !important;
+    color: #111111;
+    box-shadow: 0 50vh 0 50vh #CDCDCD;
+    margin-top: auto;
+}
+
+#navigation-item {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #DDDDDD !important;
+    background:none;
+    color: #111111;
+}
+
+#navigation-card,
+#header-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #562B2C !important;
+    border: 0px;
+}
+
+#navigation-card {
+    display:none;
+}
+
+#navigation-card .card-header {
+    background-color: #CDCDCD !important;
+    color: #111111 !important;
+}
+
+#introduction-card,
+#experience-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #333333 !important;
+    border: 0px;
+    margin-bottom: 16px;
+}
+
+#body-card {
+    background-color: #562B2C !important;
+    margin-bottom: 32px;
+    border: 0px;
+}
+
+#intro-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #DDDDDD !important;
+    color: #111111 !important;
+    margin-bottom: 32px;
+    border: 0px;
+}
+
+#body-card {
+    font-family: "Corbel Light", "Bahnschrift", "Calibri";
+    background-color: #562B2C !important;
+    margin-bottom: 32px;
+    border: 0px;
+}
+
+.card-header {
+    color: #CDCDCD !important;
+}
+
+.blog-card-shell {
+    margin-bottom: 16px;
+}
+
+.blog-card-shell .card-body {
+    background-color: #DDDDDD !important;
+    color: #423323 !important;
+}
+
+.blog-card .card-body {
+    background-color: #CDCDCD !important;
+    color: #423323 !important;
+    margin-top: 16px;
+}
+
+.blog-card .card {
+    background-color: #CDCDCD !important;
+    margin-bottom: 16px;
+}
+
+.card-body {
+    border-radius: .2rem;
+}
+
+.card-body h4 {
+    font-family: 'ProtoMono-SemiBold', Helvetica, Arial, Sans-Serif;
+}
+
+.card-body h3 {
+    font-family: 'ProtoMono-SemiBold', Helvetica, Arial, Sans-Serif;
+}
+.card-body h2 {
+    font-family: 'ProtoMono-SemiBold', Helvetica, Arial, Sans-Serif;
+}
+.card-body h5 {
+    font-family: 'ProtoMono-SemiBold', Helvetica, Arial, Sans-Serif;
+}
+
+@font-face {
+	font-family: 'ProtoMono-RegularShadow';
+	src: url('webfonts/proto-mono-regular-shadow.eot');
+	src: url('webfonts/proto-mono-regular-shadow.eot?#iefix') format('embedded-opentype'),
+             url('webfonts/proto-mono-regular-shadow.woff2') format('woff2'),
+	     url('webfonts/proto-mono-regular-shadow.woff') format('woff'),
+	     url('webfonts/proto-mono-regular-shadow.ttf') format('truetype'),
+	     url('webfonts/proto-mono-regular-shadow.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProtoMono-SemiBold';
+	src: url('webfonts/proto-mono-semi-bold.eot');
+	src: url('webfonts/proto-mono-semi-bold.eot?#iefix') format('embedded-opentype'),
+             url('webfonts/proto-mono-semi-bold.woff2') format('woff2'),
+	     url('webfonts/proto-mono-semi-bold.woff') format('woff'),
+	     url('webfonts/proto-mono-semi-bold.ttf') format('truetype'),
+	     url('webfonts/proto-mono-semi-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
