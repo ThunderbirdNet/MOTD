@@ -7771,15 +7771,14 @@ t.n = function(e) {
                                         children: "Workshops"
                                     }), (0, b.jsxs)("p", {
                                         children: ["Subscribe to our workshop collections help ensure you are getting the up-to-date addons that are needed to experience the server to it's maximum potential:", (0, b.jsx)("br", {}), (0, b.jsx)("br", {}), (0, b.jsx)("a", {
-                                            href: "",
+                                            href: "https://steamcommunity.com/workshop/filedetails/?id=712382154",
                                             children: "Thunderbird Network Server Content"
                                         })]
                                     }), (0, b.jsx)("br", {}), (0, b.jsx)("h5", {
                                         children: "Additional Addons"
                                     }), (0, b.jsxs)("p", {
-                                        children: ["A few additional addons may be necessary to enjoy the server to it's maximum potential, but these require manual installation:", (0, b.jsx)("br", {}), (0, b.jsx)("br", {}), (0, b.jsx)("a", {
-                                            href: "",
-                                            children: "SProps"
+                                        children: ["A few additional addons may be necessary to enjoy the server to it's maximum potential, but these require manual installation:", (0, b.jsx)("br", {}), (0, b.jsx)("br", {}), (0, b.jsxs)("p", {
+                                            children: "Nothing else! If you have any recommendations, please reach out to Raunchy Santa!"
                                         })]
                                     })]
                                 })
